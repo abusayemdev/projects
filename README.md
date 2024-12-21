@@ -143,18 +143,6 @@
 </p>
 <p align="center">Image 15: Customer Messenger Page</p>
 <br><br>
-
-<p align="center">
-<img src="image/1_16.jpg" alt="Image16" width="70%" margin="auto" display="block">
-</p>
-<p align="center">Image 16: Flash Notifications</p>
-<br><br>
-
-<p align="center">
-<img src="image/1_17.jpg" alt="Image1" width="70%" margin="auto" display="block">
-</p>
-<p align="center">Image 17: Database</p>
-<br><br>
 <br><br>
 
 
@@ -206,24 +194,6 @@
 </p>
 <p align="center">Image 7: Order Confirmation Invoice Page</p>
 <br><br>
-
-<p align="center">
-<img src="image/2_08.jpg" alt="Image8" width="70%" margin="auto" display="block">
-</p>
-<p align="center">Image 8: Success and Pending Order Page</p>
-<br><br>
-
-<p align="center">
-<img src="image/2_09.jpg" alt="Image9" width="70%" margin="auto" display="block">
-</p>
-<p align="center">Image 9: Database</p>
-<br><br>
-
-<p align="center">
-<img src="image/2_10.jpg" alt="Image10" width="70%" margin="auto" display="block">
-</p>
-<p align="center">Image 10: Admin Dashboard</p>
-<br><br>
 <br><br>
 
 
@@ -243,12 +213,6 @@
 <img src="image/3_02.jpg" alt="Image2" width="70%" margin="auto" display="block">
 </p>
 <p align="center">Image 2: Admin Dashboard</p>
-<br><br>
-
-<p align="center">
-<img src="image/3_03.jpg" alt="Image3" width="70%" margin="auto" display="block">
-</p>
-<p align="center">Image 3: Database</p>
 <br><br>
 <br><br>
 
@@ -353,21 +317,9 @@ and instructors. Student can purchase courses through cart system.
 <br><br>
 
 <p align="center">
-<img src="image/4_15.jpg" alt="Image15" width="70%" margin="auto" display="block">
-</p>
-<p align="center">Image 15: Enroll Course Video Page</p>
-<br><br>
-
-<p align="center">
-<img src="image/4_16.jpg" alt="Image16" width="70%" margin="auto" display="block">
-</p>
-<p align="center">Image 16: Database</p>
-<br><br>
-
-<p align="center">
 <img src="image/4_17.jpg" alt="Image1" width="70%" margin="auto" display="block">
 </p>
-<p align="center">Image 17: Admin Dashboard</p>
+<p align="center">Image 15: Admin Dashboard</p>
 <br><br>
 <br><br>
 
