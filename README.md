@@ -1,4 +1,4 @@
-<h1>Recent Project Work:</h1>
+<b><u>Recent Project Work:</u></b><br>
 <h3>E-commererce Website – Martfury</h3>
 
 <p>Martfury E-commerce website developed and customized by PHP, Laravel. It's a product of Botble with custom plugins and features with some custom API integration. It’s a multi-vendor e-commerce project.</p>
