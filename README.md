@@ -1,5 +1,6 @@
-<b><u>Recent Project Work:</u></b><br>
-<h3>E-commererce Website – Martfury</h3>
+# Recent Project Work:
+
+## E-commererce Website – Martfury
 
 <p>Martfury E-commerce website developed and customized by PHP, Laravel. It's a product of Botble with custom plugins and features with some custom API integration. It’s a multi-vendor e-commerce project.</p>
 
@@ -49,7 +50,7 @@
 <br><br>
 
 
-<h3>E-commererce Website – Foxic</h3>
+## E-commererce Website – Foxic
 
 <p>Foxic E-commerce website developed by PHP, Laravel in back-end development & Ajax in front-end. It’s a multi-vendor e-commerce project.</p>
 
@@ -149,7 +150,7 @@
 
 
 
-<h3>E-commerce Website – Wolmart</h3>
+## E-commerce Website – Wolmart
 <p>Wolmart E-commerce website developed by PHP, Laravel in back-end development & Ajax in front-end. It was a multi-vendor e-commerce project. It was added several services like Pusher notification & live chat, Firebase OTP authentication and more services related transaction service.</p>
 
 <br>
@@ -199,7 +200,7 @@
 
 
 
-<h3>Business Website – Aquagreen</h3>
+## Business Website – Aquagreen
 <p>Drinking mineral water and accessories supplier website developed by PHP, Laravel, Bootstrap.</p>
 
 <br>
@@ -220,7 +221,7 @@
 
 
 
-<h3>Enroll Course Website – Eudica</h3>
+## Enroll Course Website – Eudica
 <p>Enroll course website where students can enroll courses related learning new skills and education and 
 course instructors can upload their courses. It was developed by PHP, Laravel, MySQL, Bootstrap, Ajax, 
 Integrated API, Pusher notification and live chat. Student can get certificate on the base of course 
@@ -326,7 +327,7 @@ and instructors. Student can purchase courses through cart system.
 
 
 
-<h3>Business Website – Pcstocks</h3>
+## Business Website – Pcstocks
 <p>Computer accessories business website developed by PHP, Laravel, Bootstrap. </p>
 
 <br>
