@@ -222,12 +222,11 @@
 
 
 ## Enroll Course Website – Eudica
-<p>Enroll course website where students can enroll courses related learning new skills and education and 
-course instructors can upload their courses. It was developed by PHP, Laravel, MySQL, Bootstrap, Ajax, 
+<p>Enroll course website where students can enroll courses related learning new skills and education. 
+Course instructors can upload their courses. It was developed by PHP, Laravel, MySQL, Bootstrap, Ajax, 
 Integrated API, Pusher notification and live chat. Student can get certificate on the base of course 
 completion. The courses are well organized by category, sub category and sub sub sub category and 
-the courses page was developed by a strong filter. Courses can be searched by course name, categories 
-and instructors. Student can purchase courses through cart system.
+the courses page was developed by strong filters. Student can purchase courses through cart system.
 
 </p>
 
